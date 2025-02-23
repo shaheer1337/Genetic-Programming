@@ -1,0 +1,132 @@
+Generation 0, Max Fitness: 0.8404255319148936
+Generation 1, Max Fitness: 0.8681318681318682
+Generation 2, Max Fitness: 0.8681318681318682
+Generation 3, Max Fitness: 0.8876404494382022
+Generation 4, Max Fitness: 0.8876404494382022
+Generation 5, Max Fitness: 0.8977272727272728
+Generation 6, Max Fitness: 0.9080459770114941
+Generation 7, Max Fitness: 0.9080459770114941
+Generation 0, Max Fitness: 0.8404255319148936
+Generation 1, Max Fitness: 0.8681318681318682
+Generation 2, Max Fitness: 0.8977272727272728
+Generation 3, Max Fitness: 0.8977272727272728
+Generation 4, Max Fitness: 0.8977272727272728
+Generation 5, Max Fitness: 0.8977272727272728
+Generation 6, Max Fitness: 0.8977272727272728
+Generation 7, Max Fitness: 0.8977272727272728
+Generation 8, Max Fitness: 0.8977272727272728
+Generation 9, Max Fitness: 0.8977272727272728
+Generation 10, Max Fitness: 0.8977272727272728
+Generation 11, Max Fitness: 0.8977272727272728
+Generation 12, Max Fitness: 0.8977272727272728
+Generation 13, Max Fitness: 0.8977272727272728
+Generation 14, Max Fitness: 0.8977272727272728
+Generation 15, Max Fitness: 0.8977272727272728
+Generation 16, Max Fitness: 0.8977272727272728
+Generation 17, Max Fitness: 0.8977272727272728
+Generation 18, Max Fitness: 0.9186046511627907
+Generation 19, Max Fitness: 0.9186046511627907
+Generation 20, Max Fitness: 0.9186046511627907
+Generation 21, Max Fitness: 0.9404761904761906
+Generation 22, Max Fitness: 0.9404761904761906
+Generation 23, Max Fitness: 0.9404761904761906
+Generation 24, Max Fitness: 0.9404761904761906
+Generation 25, Max Fitness: 0.9404761904761906
+Generation 26, Max Fitness: 0.9404761904761906
+Generation 27, Max Fitness: 0.9404761904761906
+Generation 28, Max Fitness: 0.9404761904761906
+Generation 29, Max Fitness: 0.9404761904761906
+Generation 30, Max Fitness: 0.9404761904761906
+Generation 31, Max Fitness: 0.9404761904761906
+Generation 32, Max Fitness: 0.9404761904761906
+Generation 33, Max Fitness: 0.9404761904761906
+Generation 34, Max Fitness: 0.9404761904761906
+Generation 35, Max Fitness: 0.9404761904761906
+Generation 36, Max Fitness: 0.9404761904761906
+Generation 37, Max Fitness: 0.9404761904761906
+Generation 38, Max Fitness: 0.9404761904761906
+Generation 39, Max Fitness: 0.9404761904761906
+Generation 40, Max Fitness: 0.9404761904761906
+Generation 41, Max Fitness: 0.9404761904761906
+Generation 42, Max Fitness: 0.9404761904761906
+Generation 43, Max Fitness: 0.9404761904761906
+Generation 44, Max Fitness: 0.9404761904761906
+Generation 45, Max Fitness: 0.9404761904761906
+Generation 46, Max Fitness: 0.9404761904761906
+Generation 47, Max Fitness: 0.9404761904761906
+Generation 48, Max Fitness: 0.9404761904761906
+Generation 49, Max Fitness: 0.9404761904761906
+Generation 50, Max Fitness: 0.9404761904761906
+Generation 51, Max Fitness: 0.9404761904761906
+Generation 52, Max Fitness: 0.9404761904761906
+Generation 53, Max Fitness: 0.9404761904761906
+Generation 54, Max Fitness: 0.9404761904761906
+Generation 55, Max Fitness: 0.9404761904761906
+Generation 56, Max Fitness: 0.9404761904761906
+Generation 57, Max Fitness: 0.9404761904761906
+Generation 58, Max Fitness: 0.9404761904761906
+Generation 59, Max Fitness: 0.9404761904761906
+Generation 60, Max Fitness: 0.9404761904761906
+Generation 61, Max Fitness: 0.9404761904761906
+Generation 62, Max Fitness: 0.9404761904761906
+Generation 63, Max Fitness: 0.9404761904761906
+Generation 64, Max Fitness: 0.9404761904761906
+Generation 65, Max Fitness: 0.9404761904761906
+Generation 66, Max Fitness: 0.9404761904761906
+Generation 67, Max Fitness: 0.9404761904761906
+Generation 68, Max Fitness: 0.9404761904761906
+Generation 69, Max Fitness: 0.9404761904761906
+Generation 70, Max Fitness: 0.9404761904761906
+Generation 71, Max Fitness: 0.9404761904761906
+Generation 72, Max Fitness: 0.9404761904761906
+Generation 73, Max Fitness: 0.9404761904761906
+Generation 74, Max Fitness: 0.9404761904761906
+Generation 75, Max Fitness: 0.9404761904761906
+Generation 76, Max Fitness: 0.9404761904761906
+Generation 77, Max Fitness: 0.9404761904761906
+Generation 78, Max Fitness: 0.9404761904761906
+Generation 79, Max Fitness: 0.9404761904761906
+Generation 80, Max Fitness: 0.9404761904761906
+Generation 81, Max Fitness: 0.9404761904761906
+Generation 82, Max Fitness: 0.9404761904761906
+Generation 83, Max Fitness: 0.9404761904761906
+Generation 84, Max Fitness: 0.9404761904761906
+Generation 85, Max Fitness: 0.9404761904761906
+Generation 86, Max Fitness: 0.9404761904761906
+Generation 87, Max Fitness: 0.9404761904761906
+Generation 88, Max Fitness: 0.9404761904761906
+Generation 89, Max Fitness: 0.9404761904761906
+Generation 90, Max Fitness: 0.9404761904761906
+Generation 91, Max Fitness: 0.9404761904761906
+Generation 92, Max Fitness: 0.9404761904761906
+Generation 93, Max Fitness: 0.9404761904761906
+Generation 94, Max Fitness: 0.9404761904761906
+Generation 95, Max Fitness: 0.9404761904761906
+Generation 96, Max Fitness: 0.9404761904761906
+Generation 97, Max Fitness: 0.9404761904761906
+Generation 98, Max Fitness: 0.9404761904761906
+Generation 99, Max Fitness: 0.9404761904761906
+Inputs: [0.72 0.92 0.2  0.31 0.49 0.92 0.72 0.07 0.35], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.3  0.71 0.74 0.52 0.12 0.84 0.42 0.17 0.34], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.61 0.74 0.19 0.14 0.55 0.4  0.56 0.31 0.77], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.22 0.53 0.08 0.31 0.92 0.27 0.3  0.28 0.83], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.38 0.37 0.26 0.6  0.72 0.47 0.97 0.55 0.18], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.65 0.05 0.48 0.35 0.58 0.85 0.33 0.72 0.73], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.22 0.86 0.32 0.36 0.68 0.87 0.09 0.15 0.64], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.69 0.79 0.72 0.68 0.42 0.89 0.16 0.37 0.34], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.55 0.1  0.4  0.68 0.26 0.48 0.78 0.01 0.04], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.47 0.54 0.07 0.51 0.36 0.98 0.61 0.54 0.56], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.48 0.64 0.88 0.13 0.05 0.44 0.75 0.2  0.05], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.12 0.47 0.16 0.58 0.14 0.93 0.41 0.78 0.16], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.4  0.61 0.73 0.07 0.44 0.88 0.43 0.52 0.09], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.55 0.92 0.9  0.46 0.93 0.07 0.54 0.66 0.04], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.28 0.36 0.85 0.21 0.52 0.58 0.75 0.45 0.69], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.43 0.88 0.14 0.66 0.43 0.23 0.44 0.64 0.18], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.36 0.34 0.61 0.51 0.39 0.75 0.91 0.71 0.9 ], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.92 0.94 0.32 0.92 0.2  0.22 0.92 0.29 0.54], Actual Label: 1.0, Predicted Label: 1
+Inputs: [0.62 0.85 0.29 0.61 0.22 0.87 0.33 0.97 0.08], Actual Label: 0.0, Predicted Label: 0
+Inputs: [0.8  0.22 0.25 0.84 0.87 0.24 0.02 0.06 0.01], Actual Label: 1.0, Predicted Label: 1
+Test Set Accuracy: 1.00
+Best Perceptron Weights: [-0.15907451837444814, -0.18862165911055578, -1.0186690757425545, 0.9405677044307944, 0.649248028321419, -0.881470929973355, 0.9599474577257725, -0.06593141306528705, 0.4920503114180703]        
+Best Perceptron Threshold: 0.394407132772022
+Best Perceptron Accuracy: 1.00
